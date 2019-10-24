@@ -16,7 +16,7 @@ lowest - is used to hold the lowest value.
 highest - This variable is used to hold the highest numbers.  
 average - This variable is used to display the average. 
 
-                                                  -Steps are sequential-
+                                               -Steps are Sequential-
                                                   
 1.) A print statement will then be produced stating exactly what the program will do.  
 2.) A scanner will then be made so that the input of the values can be taken.   
