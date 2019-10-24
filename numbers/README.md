@@ -1,4 +1,6 @@
-                                                    -Overview-  
+ # Low-High-Average                                                  
+                                                   
+                                                   -Overview-  
 This is a simple program called Numbers.  
 The Numbers program will ask for ten numbers between zero and one-hundred. It will then take the lowest number, highest number, and
 average the two together. It will then display those numbers to you explaining what numbers was 
